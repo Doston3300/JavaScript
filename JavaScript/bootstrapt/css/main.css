@@ -1,0 +1,93 @@
+.navbar {
+    background-color: #3e7cd4;
+}
+
+.form-control {
+    max-width: 335px;
+    height: 46px;
+    left: 702px;
+    top: 26px;
+    background: linear-gradient(274deg, #4378c2 33.12%, #3e7cd4 84.7%);
+    border: 1px solid rgba(231, 39, 39, 0.1);
+    border-radius: 5px;
+}
+
+.menu {
+    justify-content: space-between;
+    margin-left: 276px;
+}
+
+.nav-item {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.btn {
+    background: #FE8B37;
+    border-radius: 4px;
+    border: none;
+}
+
+.main {
+    height: 389px;
+    background: #3f5fa2;
+}
+
+.text-start {
+    width: 840px;
+    height: 96px;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.text-center {
+    position: relative;
+}
+
+.row {
+    position: absolute;
+    width: 1280px;
+    height: 100px;
+    background-color: #a8a7a7;
+    margin-top: -50px;
+}
+
+.btn__col {
+    width: 200px;
+    height: 101px;
+    margin-top: -25px;
+    margin-left: 60px;
+    background-color: #3e7cd4;
+    color: white;
+    border: none;
+}
+
+.text-capitalize {
+    width: 377px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    color: #333333;
+}
+
+.imgg {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.beznes__right {
+    margin-top: 90px;
+    margin-left: -100px;
+}
+
+.card-text {
+    width: 250px;
+    font-weight: 600;
+    line-height: 34px;
+    color: #333333;
+}
